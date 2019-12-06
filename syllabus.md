@@ -46,6 +46,7 @@ Four 7 minute sessions with groups of 5 students
 
 ## 5. BONUS DAY: Free Play
 * http://paulkaplan.me/SnowflakeGenerator/
+  * Example [Snowflake](./snowflake.svg)
 * Turtle
   * https://docs.python.org/3.6/library/turtle.html
 
