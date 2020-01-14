@@ -44,7 +44,7 @@ Four 7 minute sessions with groups of 5 students
 * Self Paced: [Typing.com](https://www.typing.com/student/login)
   * Basics: reinforce 
 
-## 5. BONUS DAY: Free Play
+## 6. BONUS DAY: Free Play
 * http://paulkaplan.me/SnowflakeGenerator/
   * Example [Snowflake](./snowflake.svg)
 * Turtle
