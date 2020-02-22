@@ -33,6 +33,9 @@ Resources I have created to help learn about cirriculum and communicate to other
     * Downloadable Informational [Brochure](https://www.dropbox.com/s/ivrnloivh7ygpwr/csfadminbrochure2019.pdf?dl=0)
 * https://www.python.org/ **Begineer** to **Advanced**
     * Okay, out of the box, this is not a begineer topic.  But if you are on a desktop computer, chances are python is [installed](https://www.dummies.com/programming/python/write-a-simple-program-in-python/) and one way to expose children to computers is to let them `type`.  Why not let them `type` at a `python console`? ![Python console as typing canvas](python_console_as_typing_canvas.png)
+* Robotics
+   * https://www.firstinspires.org/
+   * http://www.juniorfirstlegoleague.org/
 
 Have yet to try:
 
