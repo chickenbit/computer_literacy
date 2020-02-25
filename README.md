@@ -7,13 +7,16 @@ Notes on computer literacy lessons
 **Vision**  Knowledge of circuits and computer science is ubiquitous as reading and writing.
 
 # Topics
+Lesson Plans + Notes from instructor led sessions
+
+## Kinder (2019/2020)
 * [Keyboarding / Typing](./typing.md)
 * [Circuits](./circuits.md)
 * [Computer Science](./computer_science.md)
 
 # Background
 
-I have a professional background in engineering, and volunteer experience in youth sports and being a first responder.   I am interested in my children and our community having opportunities to experience and learn about technology to enable them to make decisions about its place in their life.   Starting in 2019, I started to learn about applying computer literacty to kinder aged children.
+I have a professional background in engineering, and volunteer experience in youth sports and being a first responder.   I am interested in my children and our community having opportunities to experience and learn about technology to enable them to make decisions about its place in their life.   Starting in 2019, I started to learn about applying computer literacy to kinder aged children.
 
 # Resources
 
