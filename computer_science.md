@@ -6,6 +6,10 @@ weekly 1 hour session to Kinder (2019/2020)
 
 Format 1: Four 7 minute sessions with groups of 5 students.  each student has a laptop
 
+## Instructor pre-work
+
+In order for students to have cirriculem in their **Classroom Sections**, the instructor will have to select (1) the course and (2) optionally cherry-pick lessons to skip.
+
 # Lessons
 
 ## 1. Intro to software and code.org
